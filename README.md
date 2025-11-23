@@ -1,4 +1,4 @@
-<img width="684" height="875" alt="Screenshot 2025-11-24 002747" src="https://github.com/user-attachments/assets/a327b2aa-538f-4794-9bc3-8ec1a93028f5" /># Mini Cinema Ticket Booking System   
+# Mini Cinema Ticket Booking System   
 
 ### Project Title  
 **Mini Cinema Ticket Booking System**  
