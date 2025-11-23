@@ -1,4 +1,4 @@
-# Mini Cinema Ticket Booking System   
+<img width="684" height="875" alt="Screenshot 2025-11-24 002747" src="https://github.com/user-attachments/assets/a327b2aa-538f-4794-9bc3-8ec1a93028f5" /># Mini Cinema Ticket Booking System   
 
 ### Project Title  
 **Mini Cinema Ticket Booking System**  
@@ -73,5 +73,6 @@ November 2025
 
 ---  
 *This project is for educational purposes only.
-![Uploading Screenshot 2025-11-24 002747.png…]()
+
+<img width="684" height="875" alt="Screenshot 2025-11-24 002747" src="https://github.com/user-attachments/assets/aa7f869a-c5a7-4c91-844c-d014289644df" />
 
