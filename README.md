@@ -63,7 +63,7 @@ Row 5: [ ] [ ] [ ] [ ] [ ] [ ]
 - `README.md` → This file  
 
 ### Author  
-Your Name - Shanya Kumari 
+Your Name - Shanya Kumari        
 Course: Introduction to Problem Solving & Programming 
 
 ### Date  
