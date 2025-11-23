@@ -72,4 +72,6 @@ November 2025
 **Enjoy booking your movie tickets!** 🍿🎬  
 
 ---  
-*This project is for educational purposes only.*
+*This project is for educational purposes only.
+![Uploading Screenshot 2025-11-24 002747.png…]()
+
