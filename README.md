@@ -1,5 +1,4 @@
-# Mini Cinema Ticket Booking System  
-**A Simple Python Project for Beginners**  
+# Mini Cinema Ticket Booking System   
 
 ### Project Title  
 **Mini Cinema Ticket Booking System**  
@@ -64,8 +63,8 @@ Row 5: [ ] [ ] [ ] [ ] [ ] [ ]
 - `README.md` → This file  
 
 ### Author  
-Your Name (Student)  
-Course: Introduction to Problem Solving & Programming / Python Basics  
+Your Name - Shanya Kumari 
+Course: Introduction to Problem Solving & Programming 
 
 ### Date  
 November 2025  
